@@ -136,13 +136,13 @@ print(f'Actual Price: {actual_prices[-1]}')
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
-<img width="722" height="556" alt="image" src="https://github.com/user-attachments/assets/9e957f4d-2035-48e1-b895-039d7591313c" />
+<img width="785" height="533" alt="image" src="https://github.com/user-attachments/assets/186c9a38-afc9-4a70-9a93-9f8b76aabaeb" />
 
 ## True Stock Price, Predicted Stock Price vs time
-<img width="1078" height="680" alt="image" src="https://github.com/user-attachments/assets/72c46c14-6c88-4f21-ae6d-13141ed854ff" />
+<img width="1097" height="700" alt="image" src="https://github.com/user-attachments/assets/d1263027-bede-44a6-aba8-520820f5dfc6" />
 
 ### Predictions
-<img width="307" height="61" alt="image" src="https://github.com/user-attachments/assets/7b73395c-6de1-4850-aa38-bc7b168432bb" />
+<img width="323" height="65" alt="image" src="https://github.com/user-attachments/assets/d9388f6e-717f-4c2a-a635-8641c3c9b25e" />
 
 ## RESULT
 Thus, a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data has been developed successfully.
